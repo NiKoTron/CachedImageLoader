@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachedImageLoader", "CachedImageLoader\CachedImageLoader.csproj", "{363E56BD-402D-48D9-8FB3-9CE772C2C1A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachedImageLoaderApp", "CachedImageLoaderApp\CachedImageLoaderApp.csproj", "{4715DBEB-E8DF-4F32-9FEB-1687DFED4F2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{363E56BD-402D-48D9-8FB3-9CE772C2C1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{363E56BD-402D-48D9-8FB3-9CE772C2C1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{363E56BD-402D-48D9-8FB3-9CE772C2C1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4715DBEB-E8DF-4F32-9FEB-1687DFED4F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4715DBEB-E8DF-4F32-9FEB-1687DFED4F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4715DBEB-E8DF-4F32-9FEB-1687DFED4F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4715DBEB-E8DF-4F32-9FEB-1687DFED4F2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
